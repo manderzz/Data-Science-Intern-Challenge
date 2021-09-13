@@ -19,7 +19,7 @@ oa_total = 15725640
 final_total = 42926
 oa_total/final_total = 357.92 (rounded to two decimal places)
 
-## LINK TO CODE: https://github.com/manderzz/Data-Science-Intern-Challenge/blob/main/data/solution.ipynb
+LINK TO CODE: https://github.com/manderzz/Data-Science-Intern-Challenge/blob/main/data/solution.ipynb
 
 
 ## Question 2: For this question you’ll need to use SQL. Follow this link to access the data set required for the challenge. Please use queries to answer the following questions. Paste your queries along with your final numerical answers below.
@@ -33,5 +33,5 @@ oa_total/final_total = 357.92 (rounded to two decimal places)
 2. The employee with the most order is Peacock, Margaret with 40 orders.
 3. Boston Crab Meat was most ordered by customers in Germany, 256 quantities of these were sold. 
 
-## LINK TO CODE: https://github.com/manderzz/Data-Science-Intern-Challenge/blob/main/data/solution.sql
+LINK TO CODE: https://github.com/manderzz/Data-Science-Intern-Challenge/blob/main/data/solution.sql
 

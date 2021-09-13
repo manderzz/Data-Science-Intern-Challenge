@@ -22,7 +22,8 @@ oa_total/final_total = 357.92 (rounded to two decimal places)
 LINK TO CODE: https://github.com/manderzz/Data-Science-Intern-Challenge/blob/main/data/solution.ipynb
 
 
-## Question 2: For this question you’ll need to use SQL. Follow this link to access the data set required for the challenge. Please use queries to answer the following questions. Paste your queries along with your final numerical answers below.
+## Question 2: 
+For this question you’ll need to use SQL. Follow this link to access the data set required for the challenge. Please use queries to answer the following questions. Paste your queries along with your final numerical answers below.
 
 1. How many orders were shipped by Speedy Express in total?
 2. What is the last name of the employee with the most orders?
